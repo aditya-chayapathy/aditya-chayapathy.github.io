@@ -1,1 +1,4 @@
-# aditya-chayapathy.github.io
+# NOTES
+
+This repository contains code to host Aditya Chayapathy's website.
+
